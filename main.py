@@ -3,3 +3,4 @@ def main():
         file_contents = f.read()
     print(len(file_contents.split()))
 main()
+# test
